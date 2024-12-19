@@ -21,7 +21,7 @@ class ReverseViewController: UIViewController {
    
     override func viewDidLoad() {
         super.viewDidLoad()
-        print("added from server")
+       
         view.backgroundColor = #colorLiteral(red: 0.7127910554, green: 0.8392156959, blue: 0.9764705896, alpha: 1)
         addViews()
         setConstraints()
